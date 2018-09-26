@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://dreamy-murdock-956134.netlify.com/* http://words.colin-gourlay.com/:splat 301!
