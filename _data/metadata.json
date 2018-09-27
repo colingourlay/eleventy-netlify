@@ -1,15 +1,15 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
+  "title": "Words | Colin Gourlay",
+  "url": "https://words.colin-gourlay.com/",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Colin Gourlay wrote some stuff. It lives here.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://words.colin-gourlay.com/feed/feed.xml",
+    "id": "https://words.colin-gourlay.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Colin Gourlay",
+    "email": "colin@colin-gourlay.com"
   }
 }
